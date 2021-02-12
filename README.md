@@ -1,2 +1,2 @@
-# MPasierbiewicz_Maven
+Testy z wykorzystaniem Maven.
 
